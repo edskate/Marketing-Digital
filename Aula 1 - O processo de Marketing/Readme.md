@@ -38,3 +38,8 @@
 - Valor e satisfação
 - Trocas e relacionamentos
 - Mercados
+
+# Criando Assim :
+
+- Modelo de forma Demonstrativa mas, que o publico tenha acesso ao visual
+- Apresentado com qualidade sem custo fotografico ou seja , assim tendo um numero de curiosidade.
