@@ -20,7 +20,7 @@
 
 # O que é marketing ?
 
-- "Marketing é um processo social peelo qual se cria Valor e se constroi relacionamento.
+- "Marketing é um processo social pelo qual se cria Valor e se constroi relacionamento.
 - Processo de marketing
 - Criar valor
 - Capturar valor
