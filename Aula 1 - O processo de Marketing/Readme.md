@@ -26,10 +26,8 @@
 - Capturar valor
 - Elaborar estratégia
 - Entender Necessidades
-- Elaborar Estratégia
-- Programa de marketing
+- Programação de marketing
 - Construir realcionamento
-- Capturar valor
 
 # Entender Necessidades
 
